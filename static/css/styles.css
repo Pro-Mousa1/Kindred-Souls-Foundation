@@ -1,0 +1,349 @@
+/* Start of index css */
+.top{
+    display: flex;
+    background-color: rgba(11, 115, 234, 0.78);
+}
+.top-left{
+    width: 25%;
+    margin-left: 20px;
+}
+.top-left h2{
+    color: rgba(238, 199, 5, 0.99);
+}
+span{
+    color: #ff5c0c;
+}
+.top-right{
+    width: 75%;
+    margin-top: 10px;
+    padding-left: 200px;
+}
+.top-right button{
+    width: 100px;
+    height: 30px;
+    border: unset;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: transparent;
+    color: rgb(10, 10, 10);
+    cursor: pointer;
+}
+.top-right button:hover{
+    color: #ff1b00;
+    background-color: rgba(238, 199, 5, 0.99);
+}
+.banner-section{
+    height: 100vh;
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 1px;
+}
+.banner-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 4%;
+    padding-right: 40%;
+}
+.banner-container h1{
+    color: #0a0a0a;
+    font-size: 30px;
+}
+.banner-container p{
+    color: rgb(13, 17, 4);
+    font-size: 20px;
+    text-align: center;
+}
+.banner-container button{
+    width: 100px;
+    border: unset;
+    border-radius: 100px;
+    background-color: rgb(248, 90, 5);
+    color: white;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 300px;
+}
+/* End of index css*/
+
+/* Start of about css*/
+.about{
+    display: flex;
+    height: 84vh;
+    background-image: url("../images/about-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 1px;
+}
+.about-left{
+    width: 50%;
+}
+.about-left img{
+    width: 80%;
+    height: 84vh;
+    margin-left: 40px;
+    margin-bottom: 1px;
+}
+.about-right{
+    width: 50%;
+}
+.about-right h2{
+    color: #ff8803;
+    text-align: center;
+}
+.about-right p{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.about-right ul{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+}
+.about-right span{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+}
+.about-container{
+    display: flex;
+    background-color: rgba(47, 47, 47, 0.64);
+}
+.card{
+    width: 33%;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.card img{
+    width: 80%;
+    height: 40vh;
+}
+/* End of about css*/
+
+/* Start of gallery css*/
+.gallery-section{
+    display: flex;
+}
+.gallery-top{
+    height: 20vh;
+    background-color: rgba(21, 215, 215, 0.78);
+    padding-top: 1px;
+}
+.gallery-title{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.gallery-bottom{
+    height: 70vh;
+}
+.gallery-bottom img{
+    width: 33%;
+    height: 35vh;
+}
+/* End of gallery css*/
+
+/*Start of team css*/
+.team-section{
+    display: flex;
+    background-color: rgb(30, 16, 236);
+}
+.team-top{
+    flex-direction: row;
+    display: flex;
+    padding-top: 15px;
+}
+.team-middle{
+    flex-direction: row;
+    display: flex;
+    padding-top: 15px;
+}
+.team-bottom{
+    flex-direction: row;
+    display: flex;
+    padding-top: 15px;
+}
+.member p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.member{
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.member img{
+    width: 80%;
+    height: 40vh;
+}
+/*End of team css*/
+
+/*Start of events css*/
+.event-section{
+    display: flex;
+}
+.event-title h2{
+    color: #000000;
+    text-align: center;
+    font-size: 25px;
+}
+.wrapper-content{
+    display: flex;
+    flex-direction: row;
+}
+.wrapper-content span{
+    color: rgba(6, 53, 243, 0.99);
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    padding-left: 8px;
+}
+.wrapper-content img{
+    width: 100px;
+    height: 16vh;
+    padding: 5px;
+    border-radius: 200px;
+}
+.event-speaker{
+    display: flex;
+    padding-top: 20px;
+}
+.speakers-title h2{
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.speaker p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.speaker{
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.speaker img{
+    width: 80%;
+    height: 40vh;
+}
+.venue-title h2{
+    text-align: center;
+    color: #000000;
+    font-size: 30px;
+}
+.venue{
+    display: flex;
+}
+.venue-left{
+    width: 50%;
+}
+.venue-left img{
+    width: 80%;
+    height: 84vh;
+    margin-left: 40px;
+}
+.venue-info-title h2{
+    text-align: center;
+    color: #000000;
+    font-size: 25px;
+}
+.venue-right{
+    width: 50%;
+}
+.event-content{
+    text-align: center;
+}
+.event-content button{
+    width: 100px;
+    border: unset;
+    border-radius: 100px;
+    background-color: rgb(248, 90, 5);
+    color: white;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.event-content h3{
+    color: rgba(11, 115, 234, 0.78);
+}
+/*End of events css*/
+
+/*Start of contact css*/
+.contact-section{
+    display: flex;
+}
+.contact-title h2{
+    font-size: 30px;
+    text-align: center;
+}
+.questions-title h3{
+    font-size: 20px;
+    text-align: center;
+}
+.questions{
+    display: flex;
+}
+.questions-left{
+    width: 50%;
+}
+.questions-right{
+    width: 50%;
+}
+.query{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction: column;
+}
+.social-title{
+    text-align: center;
+    font-size: 15px;
+}
+.social-content{
+    display: flex;
+    text-align: center;
+}
+.social-left{
+    width: 25%;
+}
+.social-center{
+    width: 25%;
+}
+.social-middle{
+    width: 25%;
+}
+.social-right{
+    width: 25%;
+}
+.social{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+.contact-social img{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    padding-left: 30px;
+}
+
+/*End of contact css*/

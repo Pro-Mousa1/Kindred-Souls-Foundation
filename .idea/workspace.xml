@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f77ef9fe-3e22-48c6-bc09-005ccab2cdd5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OEpYK7gFvVs4TGERs67bmMYIqR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mousa/PycharmProjects/KindredSoulsFoundation/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="KindredSoulsFoundation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77ef9fe-3e22-48c6-bc09-005ccab2cdd5" name="Changes" comment="" />
+      <created>1681135641412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681135641412</updated>
+      <workItem from="1681135644387" duration="135000" />
+      <workItem from="1681135801815" duration="12000" />
+      <workItem from="1681135822300" duration="1891000" />
+      <workItem from="1681138311755" duration="4000" />
+      <workItem from="1681189172655" duration="1195000" />
+      <workItem from="1681312827487" duration="5219000" />
+      <workItem from="1681324221682" duration="498000" />
+      <workItem from="1681379594154" duration="603000" />
+      <workItem from="1681401821359" duration="8265000" />
+      <workItem from="1681464792399" duration="1202000" />
+      <workItem from="1681484364808" duration="337000" />
+      <workItem from="1681496524149" duration="3341000" />
+      <workItem from="1681542463363" duration="2151000" />
+      <workItem from="1681563774579" duration="970000" />
+      <workItem from="1681565016867" duration="1675000" />
+      <workItem from="1681584274106" duration="772000" />
+      <workItem from="1681629924357" duration="2783000" />
+      <workItem from="1681642641224" duration="692000" />
+      <workItem from="1681667879314" duration="661000" />
+      <workItem from="1681746510545" duration="11171000" />
+      <workItem from="1681793298402" duration="618000" />
+      <workItem from="1681806213196" duration="604000" />
+      <workItem from="1681832767019" duration="5059000" />
+      <workItem from="1681879768156" duration="2241000" />
+      <workItem from="1681894234956" duration="7021000" />
+      <workItem from="1681912997803" duration="1471000" />
+      <workItem from="1681969939224" duration="98000" />
+      <workItem from="1681987484366" duration="145000" />
+      <workItem from="1681998587720" duration="196000" />
+      <workItem from="1682076147759" duration="408000" />
+      <workItem from="1682078830004" duration="14000" />
+      <workItem from="1682080009292" duration="160000" />
+      <workItem from="1682097746540" duration="479000" />
+      <workItem from="1682098247519" duration="12000" />
+      <workItem from="1682414554442" duration="38000" />
+      <workItem from="1682618092170" duration="1033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
